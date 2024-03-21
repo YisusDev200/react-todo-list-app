@@ -2,6 +2,8 @@
 
 Este proyecto es una aplicación de lista de tareas desarrollada en React, utilizando Vite como herramienta de construcción y desarrollo. Permite a los usuarios agregar, marcar como completadas y eliminar tareas.
 
+## Visita la [Página de la Aplicación](https://yisusabet24.github.io/react-todo-list-app/) para verla en acción.
+
 ## Características
 
 - Cada tarea tiene un título y los usuarios pueden ver todas sus tareas en una lista, así como filtrarlas.
